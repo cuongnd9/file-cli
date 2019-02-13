@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/cuongw/file-cli/issues"
   },
-  "homepage": "https://github.com/cuongw/file-cli#readme"
+  "homepage": "https://github.com/cuongw/file-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "shelljs": "^0.8.3"
+  },
+  "bin": {
+    "file-cli": "./index.js"
+  }
 }
