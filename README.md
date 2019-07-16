@@ -4,13 +4,13 @@
 
 ## Install
 
-### Install dependencies
+**Step 1: Install dependencies**
 
 ```js
 $ npm i
 ```
 
-### Install glocal
+**Step 2: Install global**
 
 ```js
 $ npm link
